@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    <com.well.designsystem.view.item.WellListItem
+        android:id="@+id/viewItem"
+        style="@style/ListItem.SizeS"
+        android:layout_width="match_parent"
+        app:itemContentElement="bottomSheetDropDownDialog"
+        app:itemEndElement="hide"
+        app:itemStartElement="display"
+        tools:itemStartIcon="@drawable/ic_google"
+        tools:itemTitle="Half marathon"  android:tag="layout/bottom_sheet_item_linear_adapter_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"/>
+
+         

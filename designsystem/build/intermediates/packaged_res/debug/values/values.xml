@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alabaster">#FBFBFB</color>
+    <color name="bittersweet">#FF5D5D</color>
+    <color name="black_1">#1A000000</color>
+    <color name="black_2">#4D000000</color>
+    <color name="black_3">#80000000</color>
+    <color name="black_4">#CC000000</color>
+    <color name="black_5">#000000</color>
+    <color name="brand">#7C58E0</color>
+    <color name="brand_op10">#1A7C58E0</color>
+    <color name="dodger_blue">#257DF3</color>
+    <color name="ink_0">#FAFAFA</color>
+    <color name="ink_1">#F1F2F3</color>
+    <color name="ink_2">#B9BFC5</color>
+    <color name="ink_3">#6F767E</color>
+    <color name="ink_4">#515861</color>
+    <color name="ink_5">#2E3238</color>
+    <color name="key_lime_pie">#A7D81E</color>
+    <color name="macaroni_Cheese">#FFAC71</color>
+    <color name="malibu">#6BD3FF</color>
+    <color name="mariner">#1C6BD6</color>
+    <color name="mecury">#E3E3E3</color>
+    <color name="pri_1">#F5F1FF</color>
+    <color name="pri_2">#C5B0FF</color>
+    <color name="pri_3">#9B79FA</color>
+    <color name="pri_4">#7C58E0</color>
+    <color name="pri_5">#6643C9</color>
+    <color name="seashell_peach">#FFF1E8</color>
+    <color name="secondary">#F37C25</color>
+    <color name="supernova">#FFCB08</color>
+    <color name="white_1">#1AFFFFFF</color>
+    <color name="white_2">#4DFFFFFF</color>
+    <color name="white_3">#80FFFFFF</color>
+    <color name="white_4">#B3FFFFFF</color>
+    <color name="white_5">#FFFFFF</color>
+    <color name="wild_sand">#F2F2F2</color>
+    <dimen name="border_0.5px">@dimen/px0.5</dimen>
+    <dimen name="border_1px">@dimen/px1</dimen>
+    <dimen name="bottom_navigation_iconsize">@dimen/px24</dimen>
+    <dimen name="px0.5">0.5dp</dimen>
+    <dimen name="px1">1.0dp</dimen>
+    <dimen name="px10">6.67dp</dimen>
+    <dimen name="px100">66.67dp</dimen>
+    <dimen name="px102">68.0dp</dimen>
+    <dimen name="px104">69.33dp</dimen>
+    <dimen name="px106">70.67dp</dimen>
+    <dimen name="px108">72.0dp</dimen>
+    <dimen name="px11">7.33dp</dimen>
+    <dimen name="px110">73.33dp</dimen>
+    <dimen name="px112">74.67dp</dimen>
+    <dimen name="px114">76.0dp</dimen>
+    <dimen name="px116">77.33dp</dimen>
+    <dimen name="px118">78.67dp</dimen>
+    <dimen name="px12">8.0dp</dimen>
+    <dimen name="px120">80.0dp</dimen>
+    <dimen name="px122">81.33dp</dimen>
+    <dimen name="px124">82.67dp</dimen>
+    <dimen name="px126">84.0dp</dimen>
+    <dimen name="px128">85.33dp</dimen>
+    <dimen name="px130">86.67dp</dimen>
+    <dimen name="px132">88.0dp</dimen>
+    <dimen name="px134">89.33dp</dimen>
+    <dimen name="px136">90.67dp</dimen>
+    <dimen name="px138">92.0dp</dimen>
+    <dimen name="px14">9.33dp</dimen>
+    <dimen name="px140">93.33dp</dimen>
+    <dimen name="px142">94.67dp</dimen>
+    <dimen name="px144">96.0dp</dimen>
+    <dimen name="px146">97.33dp</dimen>
+    <dimen name="px148">98.67dp</dimen>
+    <dimen name="px150">100.0dp</dimen>
+    <dimen name="px152">101.33dp</dimen>
+    <dimen name="px154">102.67dp</dimen>
+    <dimen name="px156">104.0dp</dimen>
+    <dimen name="px158">105.33dp</dimen>
+    <dimen name="px16">10.67dp</dimen>
+    <dimen name="px160">106.67dp</dimen>
+    <dimen name="px162">108.0dp</dimen>
+    <dimen name="px164">109.33dp</dimen>
+    <dimen name="px166">110.67dp</dimen>
+    <dimen name="px168">112.0dp</dimen>
+    <dimen name="px170">113.33dp</dimen>
+    <dimen name="px172">114.67dp</dimen>
+    <dimen name="px174">116.0dp</dimen>
+    <dimen name="px176">117.33dp</dimen>
+    <dimen name="px178">118.67dp</dimen>
+    <dimen name="px18">12.0dp</dimen>
+    <dimen name="px180">120.0dp</dimen>
+    <dimen name="px182">121.33dp</dimen>
+    <dimen name="px184">122.67dp</dimen>
+    <dimen name="px186">124.0dp</dimen>
+    <dimen name="px188">125.33dp</dimen>
+    <dimen name="px190">126.67dp</dimen>
+    <dimen name="px192">128.0dp</dimen>
+    <dimen name="px194">129.33dp</dimen>
+    <dimen name="px196">130.67dp</dimen>
+    <dimen name="px198">132.0dp</dimen>
+    <dimen name="px2">1.33dp</dimen>
+    <dimen name="px20">13.33dp</dimen>
+    <dimen name="px200">133.33dp</dimen>
+    <dimen name="px202">134.67dp</dimen>
+    <dimen name="px204">136.0dp</dimen>
+    <dimen name="px206">137.33dp</dimen>
+    <dimen name="px208">138.67dp</dimen>
+    <dimen name="px210">140.0dp</dimen>
+    <dimen name="px212">141.33dp</dimen>
+    <dimen name="px214">142.67dp</dimen>
+    <dimen name="px216">144.0dp</dimen>
+    <dimen name="px218">145.33dp</dimen>
+    <dimen name="px22">14.67dp</dimen>
+    <dimen name="px220">146.67dp</dimen>
+    <dimen name="px222">148.0dp</dimen>
+    <dimen name="px224">149.33dp</dimen>
+    <dimen name="px226">150.67dp</dimen>
+    <dimen name="px228">152.0dp</dimen>
+    <dimen name="px230">153.33dp</dimen>
+    <dimen name="px232">154.67dp</dimen>
+    <dimen name="px234">156.0dp</dimen>
+    <dimen name="px236">157.33dp</dimen>
+    <dimen name="px238">158.67dp</dimen>
+    <dimen name="px24">16.0dp</dimen>
+    <dimen name="px240">160.0dp</dimen>
+    <dimen name="px242">161.33dp</dimen>
+    <dimen name="px244">162.67dp</dimen>
+    <dimen name="px246">164.0dp</dimen>
+    <dimen name="px248">165.33dp</dimen>
+    <dimen name="px250">166.67dp</dimen>
+    <dimen name="px252">168.0dp</dimen>
+    <dimen name="px254">169.33dp</dimen>
+    <dimen name="px256">170.67dp</dimen>
+    <dimen name="px258">172.0dp</dimen>
+    <dimen name="px26">17.33dp</dimen>
+    <dimen name="px260">173.33dp</dimen>
+    <dimen name="px262">174.67dp</dimen>
+    <dimen name="px264">176.0dp</dimen>
+    <dimen name="px266">177.33dp</dimen>
+    <dimen name="px268">178.67dp</dimen>
+    <dimen name="px270">180.0dp</dimen>
+    <dimen name="px272">181.33dp</dimen>
+    <dimen name="px274">182.67dp</dimen>
+    <dimen name="px276">184.0dp</dimen>
+    <dimen name="px278">185.33dp</dimen>
+    <dimen name="px28">18.67dp</dimen>
+    <dimen name="px280">186.67dp</dimen>
+    <dimen name="px282">188.0dp</dimen>
+    <dimen name="px284">189.33dp</dimen>
+    <dimen name="px286">190.67dp</dimen>
+    <dimen name="px288">192.0dp</dimen>
+    <dimen name="px290">193.33dp</dimen>
+    <dimen name="px292">194.67dp</dimen>
+    <dimen name="px294">196.0dp</dimen>
+    <dimen name="px296">197.33dp</dimen>
+    <dimen name="px298">198.67dp</dimen>
+    <dimen name="px30">20.0dp</dimen>
+    <dimen name="px300">200.0dp</dimen>
+    <dimen name="px302">201.33dp</dimen>
+    <dimen name="px304">202.67dp</dimen>
+    <dimen name="px306">204.0dp</dimen>
+    <dimen name="px308">205.33dp</dimen>
+    <dimen name="px310">206.67dp</dimen>
+    <dimen name="px312">208.0dp</dimen>
+    <dimen name="px314">209.33dp</dimen>
+    <dimen name="px316">210.67dp</dimen>
+    <dimen name="px318">212.0dp</dimen>
+    <dimen name="px32">21.33dp</dimen>
+    <dimen name="px320">213.33dp</dimen>
+    <dimen name="px322">214.67dp</dimen>
+    <dimen name="px324">216.0dp</dimen>
+    <dimen name="px326">217.33dp</dimen>
+    <dimen name="px328">218.67dp</dimen>
+    <dimen name="px330">220.0dp</dimen>
+    <dimen name="px332">221.33dp</dimen>
+    <dimen name="px334">222.67dp</dimen>
+    <dimen name="px336">224.0dp</dimen>
+    <dimen name="px338">225.33dp</dimen>
+    <dimen name="px34">22.67dp</dimen>
+    <dimen name="px340">226.67dp</dimen>
+    <dimen name="px342">228.0dp</dimen>
+    <dimen name="px344">229.33dp</dimen>
+    <dimen name="px346">230.67dp</dimen>
+    <dimen name="px348">232.0dp</dimen>
+    <dimen name="px350">233.33dp</dimen>
+    <dimen name="px352">234.67dp</dimen>
+    <dimen name="px354">236.0dp</dimen>
+    <dimen name="px356">237.33dp</dimen>
+    <dimen name="px358">238.67dp</dimen>
+    <dimen name="px36">24.0dp</dimen>
+    <dimen name="px360">240.0dp</dimen>
+    <dimen name="px370">246.67dp</dimen>
+    <dimen name="px38">25.33dp</dimen>
+    <dimen name="px380">253.33dp</dimen>
+    <dimen name="px390">260.0dp</dimen>
+    <dimen name="px4">2.67dp</dimen>
+    <dimen name="px40">26.67dp</dimen>
+    <dimen name="px400">266.67dp</dimen>
+    <dimen name="px410">273.33dp</dimen>
+    <dimen name="px42">28.0dp</dimen>
+    <dimen name="px420">280.0dp</dimen>
+    <dimen name="px430">286.67dp</dimen>
+    <dimen name="px44">29.33dp</dimen>
+    <dimen name="px440">293.33dp</dimen>
+    <dimen name="px450">300.0dp</dimen>
+    <dimen name="px46">30.67dp</dimen>
+    <dimen name="px460">306.67dp</dimen>
+    <dimen name="px470">313.33dp</dimen>
+    <dimen name="px48">32.0dp</dimen>
+    <dimen name="px480">320.0dp</dimen>
+    <dimen name="px490">326.67dp</dimen>
+    <dimen name="px50">33.33dp</dimen>
+    <dimen name="px500">333.33dp</dimen>
+    <dimen name="px510">340.0dp</dimen>
+    <dimen name="px52">34.67dp</dimen>
+    <dimen name="px520">346.67dp</dimen>
+    <dimen name="px530">353.33dp</dimen>
+    <dimen name="px54">36.0dp</dimen>
+    <dimen name="px540">360.0dp</dimen>
+    <dimen name="px550">366.67dp</dimen>
+    <dimen name="px56">37.33dp</dimen>
+    <dimen name="px560">373.33dp</dimen>
+    <dimen name="px570">380.0dp</dimen>
+    <dimen name="px58">38.67dp</dimen>
+    <dimen name="px580">386.67dp</dimen>
+    <dimen name="px590">393.33dp</dimen>
+    <dimen name="px6">4.0dp</dimen>
+    <dimen name="px60">40.0dp</dimen>
+    <dimen name="px600">400.0dp</dimen>
+    <dimen name="px610">406.67dp</dimen>
+    <dimen name="px62">41.33dp</dimen>
+    <dimen name="px620">413.33dp</dimen>
+    <dimen name="px630">420.0dp</dimen>
+    <dimen name="px64">42.67dp</dimen>
+    <dimen name="px640">426.67dp</dimen>
+    <dimen name="px650">433.33dp</dimen>
+    <dimen name="px66">44.0dp</dimen>
+    <dimen name="px68">45.33dp</dimen>
+    <dimen name="px70">46.67dp</dimen>
+    <dimen name="px72">48.0dp</dimen>
+    <dimen name="px74">49.33dp</dimen>
+    <dimen name="px76">50.67dp</dimen>
+    <dimen name="px78">52.0dp</dimen>
+    <dimen name="px8">5.33dp</dimen>
+    <dimen name="px80">53.33dp</dimen>
+    <dimen name="px82">54.67dp</dimen>
+    <dimen name="px84">56.0dp</dimen>
+    <dimen name="px86">57.33dp</dimen>
+    <dimen name="px88">58.67dp</dimen>
+    <dimen name="px90">60.0dp</dimen>
+    <dimen name="px92">61.33dp</dimen>
+    <dimen name="px94">62.67dp</dimen>
+    <dimen name="px96">64.0dp</dimen>
+    <dimen name="px98">65.33dp</dimen>
+    <dimen name="radius_l">@dimen/px28</dimen>
+    <dimen name="radius_m">@dimen/px8</dimen>
+    <dimen name="radius_s">@dimen/px4</dimen>
+    <dimen name="sp10">6.67sp</dimen>
+    <dimen name="sp11">7.33sp</dimen>
+    <dimen name="sp12">8.0sp</dimen>
+    <dimen name="sp14">9.33sp</dimen>
+    <dimen name="sp16">10.67sp</dimen>
+    <dimen name="sp18">12.0sp</dimen>
+    <dimen name="sp20">13.33sp</dimen>
+    <dimen name="sp22">14.67sp</dimen>
+    <dimen name="sp24">16.0sp</dimen>
+    <dimen name="sp26">17.33sp</dimen>
+    <dimen name="sp28">18.67sp</dimen>
+    <dimen name="sp30">20.0sp</dimen>
+    <dimen name="sp32">21.33sp</dimen>
+    <dimen name="sp34">22.67sp</dimen>
+    <dimen name="sp36">24.0sp</dimen>
+    <dimen name="sp38">25.33sp</dimen>
+    <dimen name="sp40">26.67sp</dimen>
+    <dimen name="sp42">28.0sp</dimen>
+    <dimen name="sp44">29.33sp</dimen>
+    <dimen name="sp46">30.67sp</dimen>
+    <dimen name="sp48">32.0sp</dimen>
+    <dimen name="sp50">33.33sp</dimen>
+    <dimen name="sp52">34.67sp</dimen>
+    <dimen name="sp54">36.0sp</dimen>
+    <dimen name="sp56">37.33sp</dimen>
+    <dimen name="sp58">38.67sp</dimen>
+    <dimen name="sp60">40.0sp</dimen>
+    <dimen name="sp62">41.33sp</dimen>
+    <dimen name="sp64">42.67sp</dimen>
+    <dimen name="sp66">44.0sp</dimen>
+    <dimen name="sp68">45.33sp</dimen>
+    <dimen name="sp70">46.67sp</dimen>
+    <dimen name="sp72">48.0sp</dimen>
+    <dimen name="sp74">49.33sp</dimen>
+    <dimen name="sp76">50.67sp</dimen>
+    <dimen name="sp78">52.0sp</dimen>
+    <dimen name="sp80">53.33sp</dimen>
+    <dimen name="sp82">54.67sp</dimen>
+    <dimen name="sp84">56.0sp</dimen>
+    <dimen name="sp86">57.33sp</dimen>
+    <style name="BackgroundStrokeInk2R4PaddingH8">
+        <item name="android:paddingEnd">@dimen/px16</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingBottom">@dimen/px8</item>
+        <item name="android:paddingTop">@dimen/px8</item>
+        <item name="android:background">@drawable/selector_form_input_normal</item>
+    </style>
+    <style name="BottomNavigationItemTextActive" parent="T11H14M">
+        <item name="android:textColor">@color/ink_5</item>
+        <item name="fontFamily">@font/googlesans_medium</item>
+        <item name="android:textSize">@dimen/px11</item>
+    </style>
+    <style name="BottomNavigationItemTextInActive" parent="T11H14R">
+        <item name="android:textColor">@color/ink_4</item>
+        <item name="fontFamily">@font/googlesans_regular</item>
+        <item name="android:textSize">@dimen/px11</item>
+    </style>
+    <style name="BottomSheet.Title" parent="T16H24M">
+        <item name="android:textColor">@color/ink_5</item>
+    </style>
+    <style name="BottomStrokeInk2R4">
+        <item name="android:paddingEnd">@dimen/px8</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingBottom">@dimen/px12</item>
+        <item name="android:paddingTop">@dimen/px12</item>
+        <item name="android:background">@drawable/selector_form_input_normal</item>
+    </style>
+    <style name="BrandShadow" parent="Shadow">
+        <item name="shadowColor">#669755FA</item>
+        <item name="shadowDx">0</item>
+        <item name="shadowDy">6</item>
+    </style>
+    <style name="Button" parent="T14H20M">
+        <item name="android:textColor">@color/white_5</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">@dimen/px50</item>
+        <item name="android:lines">1</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px16</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:drawablePadding">@dimen/px8</item>
+    </style>
+    <style name="ButtonFacebook" parent="T14H20M">
+        <item name="drawableStartCompat">@drawable/ic_facebook_lite_light</item>
+        <item name="android:background">@drawable/selector_button_facebook</item>
+        <item name="android:textColor">@color/white_5</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px16</item>
+    </style>
+    <style name="ButtonFacebook.2Column" parent="ButtonFacebook">
+        <item name="android:layout_height">@dimen/px40</item>
+        <item name="android:layout_width">@dimen/px158</item>
+        <item name="android:minWidth">@dimen/px158</item>
+        <item name="android:maxWidth">@dimen/px158</item>
+    </style>
+    <style name="ButtonFacebook.SizeL" parent="ButtonFacebook">
+        <item name="android:layout_height">@dimen/px40</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="ButtonGoogle" parent="T14H20M">
+        <item name="drawableStartCompat">@drawable/ic_google</item>
+        <item name="android:background">@drawable/selector_button_google</item>
+        <item name="android:textColor">@color/ink_5</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px16</item>
+    </style>
+    <style name="ButtonGoogle.2Column" parent="ButtonGoogle">
+        <item name="android:layout_height">@dimen/px40</item>
+        <item name="android:layout_width">@dimen/px158</item>
+        <item name="android:minWidth">@dimen/px158</item>
+        <item name="android:maxWidth">@dimen/px158</item>
+    </style>
+    <style name="ButtonGoogle.SizeL" parent="ButtonGoogle">
+        <item name="android:layout_height">@dimen/px40</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="ButtonPlain" parent="Button">
+        <item name="android:textColor">@color/ink_3</item>
+        <item name="android:background">@drawable/ripple_button_plain_1</item>
+    </style>
+    <style name="ButtonPlain.SizeL" parent="ButtonPlain">
+        <item name="android:layout_height">@dimen/px40</item>
+    </style>
+    <style name="ButtonPlain.SizeL.Style1" parent="ButtonPlain.SizeL">
+    </style>
+    <style name="ButtonPlain.SizeL.Style2" parent="ButtonPlain.SizeL">
+        <item name="android:background">@drawable/ripple_button_plain_2</item>
+        <item name="android:textColor">@color/pri_4</item>
+    </style>
+    <style name="ButtonPlain.SizeL.Style3" parent="ButtonPlain.SizeL">
+        <item name="android:background">@drawable/ripple_button_plain_3</item>
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+    <style name="ButtonPlain.SizeM" parent="ButtonPlain">
+        <item name="android:layout_height">@dimen/px36</item>
+    </style>
+    <style name="ButtonPlain.SizeM.Style1" parent="ButtonPlain.SizeM">
+        <item name="android:textColor">@color/ink_3</item>
+        <item name="android:background">@drawable/ripple_button_plain_1</item>
+    </style>
+    <style name="ButtonPlain.SizeM.Style2" parent="ButtonPlain.SizeM">
+        <item name="android:textColor">@color/pri_4</item>
+        <item name="android:background">@drawable/ripple_button_plain_2</item>
+    </style>
+    <style name="ButtonPlain.SizeM.Style3" parent="ButtonPlain.SizeM">
+        <item name="android:textColor">@color/secondary</item>
+        <item name="android:background">@drawable/ripple_button_plain_3</item>
+    </style>
+    <style name="ButtonPlain.SizeS" parent="ButtonPlain">
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="ButtonPlain.SizeS.Style1" parent="ButtonPlain.SizeS">
+        <item name="android:textColor">@color/ink_3</item>
+        <item name="android:background">@drawable/ripple_button_plain_1</item>
+    </style>
+    <style name="ButtonPlain.SizeS.Style2" parent="ButtonPlain.SizeS">
+        <item name="android:textColor">@color/pri_4</item>
+        <item name="android:background">@drawable/ripple_button_plain_2</item>
+    </style>
+    <style name="ButtonPlain.SizeS.Style3" parent="ButtonPlain.SizeS">
+        <item name="android:textColor">@color/secondary</item>
+        <item name="android:background">@drawable/ripple_button_plain_3</item>
+    </style>
+    <style name="ButtonPrimary" parent="Button">
+        <item name="android:background">@drawable/ripple_button_primary</item>
+        <item name="android:textColor">@drawable/selector_button_pri_text_color</item>
+    </style>
+    <style name="ButtonPrimary.SizeL" parent="ButtonPrimary">
+        <item name="android:layout_height">@dimen/px40</item>
+    </style>
+    <style name="ButtonPrimary.SizeL.Style3" parent="ButtonPrimary.Style3">
+        <item name="android:layout_height">@dimen/px40</item>
+    </style>
+    <style name="ButtonPrimary.SizeM" parent="ButtonPrimary">
+        <item name="android:layout_height">@dimen/px36</item>
+    </style>
+    <style name="ButtonPrimary.SizeM.Style3" parent="ButtonPrimary.Style3">
+        <item name="android:layout_height">@dimen/px36</item>
+    </style>
+    <style name="ButtonPrimary.SizeS" parent="ButtonPrimary">
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="ButtonPrimary.SizeS.Style3" parent="ButtonPrimary.Style3">
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="ButtonPrimary.Style3" parent="Button">
+        <item name="android:background">@drawable/selector_button_primary_style3</item>
+        <item name="android:textColor">@drawable/selector_button_pri_text_color</item>
+    </style>
+    <style name="ButtonSecondary" parent="Button">
+        <item name="android:background">@drawable/ripple_button_secondary</item>
+        <item name="android:textColor">@color/pri_4</item>
+    </style>
+    <style name="ButtonSecondary.SizeL" parent="ButtonSecondary">
+        <item name="android:layout_height">@dimen/px40</item>
+    </style>
+    <style name="ButtonSecondary.SizeM" parent="ButtonSecondary">
+        <item name="android:layout_height">@dimen/px36</item>
+    </style>
+    <style name="ButtonSecondary.SizeS" parent="ButtonSecondary">
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="ButtonSecondaryGray" parent="Button">
+        <item name="android:background">@drawable/ripple_button_secondary_gray</item>
+        <item name="android:textColor">@color/ink_4</item>
+    </style>
+    <style name="ButtonSecondaryGray.SizeL" parent="ButtonSecondaryGray">
+        <item name="android:layout_height">@dimen/px40</item>
+    </style>
+    <style name="ButtonSecondaryGray.SizeM" parent="ButtonSecondaryGray">
+        <item name="android:layout_height">@dimen/px36</item>
+    </style>
+    <style name="ButtonSecondaryGray.SizeS" parent="ButtonSecondaryGray">
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="ButtonStartHome" parent="T14Sportypo">
+        <item name="android:background">@drawable/ripple_button_primary</item>
+        <item name="android:textColor">@color/white_5</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_height">@dimen/px46</item>
+    </style>
+    <style name="ButtonToggle">
+        <item name="android:layout_width">@dimen/px32</item>
+        <item name="android:layout_height">@dimen/px32</item>
+    </style>
+    <style name="CenterShadow" parent="Shadow">
+        <item name="shadowColor">#26000000</item>
+    </style>
+    <style name="DSAppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="actionMenuTextColor">@color/pri_4</item>
+        <item name="android:actionMenuTextAppearance">@style/ToolbarButtonCTA</item>
+        <item name="titleTextColor">@color/ink_5</item>
+    </style>
+    <style name="Divider05PxMercuryHorizontal">
+        <item name="android:background">@color/mecury</item>
+        <item name="android:layout_height">@dimen/px0.5</item>
+    </style>
+    <style name="Divider05PxMercuryVertical">
+        <item name="android:background">@color/mecury</item>
+        <item name="android:layout_width">@dimen/px0.5</item>
+    </style>
+    <style name="Divider1PxMercuryHorizontal">
+        <item name="android:background">@color/mecury</item>
+        <item name="android:layout_height">@dimen/px1</item>
+    </style>
+    <style name="Divider1PxMercuryVertical">
+        <item name="android:background">@color/mecury</item>
+        <item name="android:layout_width">@dimen/px1</item>
+    </style>
+    <style name="Label" parent="T14H20M">
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px16</item>
+        <item name="android:paddingTop">@dimen/px4</item>
+        <item name="android:paddingBottom">@dimen/px4</item>
+        <item name="android:background">@color/white_5</item>
+        <item name="android:textColor">@color/ink_5</item>
+    </style>
+    <style name="LightShadow" parent="Shadow">
+        <item name="shadowColor">#1A000000</item>
+    </style>
+    <style name="ListItem">
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px16</item>
+        <item name="android:background">@color/white_5</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="ListItem.Description" parent="T12H20R">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink_3</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="ListItem.Description.Style1" parent="T12H18R">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink_4</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="ListItem.SizeL" parent="ListItem">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/px64</item>
+    </style>
+    <style name="ListItem.SizeL.Gray" parent="ListItem.SizeL">
+        <item name="android:background">@drawable/selector_list_item_gray</item>
+    </style>
+    <style name="ListItem.SizeL.NonBackground" parent="ListItem.SizeL">
+        <item name="android:background">@null</item>
+        <item name="android:foreground">@null</item>
+    </style>
+    <style name="ListItem.SizeM" parent="ListItem">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/px56</item>
+    </style>
+    <style name="ListItem.SizeS" parent="ListItem">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/px48</item>
+    </style>
+    <style name="ListItem.Title" parent="T14H20R">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink_5</item>
+        <item name="android:lines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="ListItem.Title.Medium" parent="ListItem.Title">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="ListItem.ValueText.Style1" parent="T14H20M">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink_5</item>
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItem.ValueText.Style2" parent="T12H18R">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/ink_3</item>
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.End.Large" parent="ListItemIconLarge">
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.End.Medium" parent="ListItemIconMedium">
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.End.Small" parent="ListItemIconSmall">
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.Start.Large" parent="ListItemIconLarge">
+        <item name="android:layout_marginEnd">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.Start.Medium" parent="ListItemIconMedium">
+        <item name="android:layout_marginEnd">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.Start.Small" parent="ListItemIconSmall">
+        <item name="android:layout_marginEnd">@dimen/px8</item>
+    </style>
+    <style name="ListItemIcon.Value" parent="ListItemIconSmall">
+        <item name="android:layout_marginStart">@dimen/px8</item>
+    </style>
+    <style name="ListItemIconLarge">
+        <item name="android:layout_width">@dimen/px48</item>
+        <item name="android:layout_height">@dimen/px48</item>
+    </style>
+    <style name="ListItemIconMedium">
+        <item name="android:layout_width">@dimen/px24</item>
+        <item name="android:layout_height">@dimen/px24</item>
+    </style>
+    <style name="ListItemIconSmall">
+        <item name="android:layout_width">@dimen/px16</item>
+        <item name="android:layout_height">@dimen/px16</item>
+    </style>
+    <style name="MiniShadow" parent="Shadow">
+        <item name="shadowColor">#40000000</item>
+        <item name="shadowDx">0</item>
+        <item name="shadowDy">6</item>
+    </style>
+    <style name="PickerValueBox" parent="T14H20R">
+        <item name="android:layout_height">@dimen/px48</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px8</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginTop">@dimen/px4</item>
+        <item name="android:textColor">@color/ink_5</item>
+        <item name="android:background">@drawable/selector_picker</item>
+    </style>
+    <style name="ProgressbarPrimary" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progressbar_primary_background</item>
+    </style>
+    <style name="SeekbarPrimary" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:progressDrawable">@drawable/seekbar_primary_background</item>
+        <item name="colorPrimary">@color/pri_4</item>
+        <item name="colorPrimaryDark">@color/white_5</item>
+        <item name="colorAccent">@color/pri_4</item>
+        <item name="android:thumbOffset">@dimen/px14</item>
+    </style>
+    <style name="Shadow">
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="cornerRadius">@dimen/px4</item>
+        <item name="shadowMargin">@dimen/px4</item>
+        <item name="shadowRadius">@dimen/px16</item>
+    </style>
+    <style name="T10H14">
+        <item name="android:textSize">@dimen/sp10</item>
+        <item name="lineHeight">@dimen/px14</item>
+    </style>
+    <style name="T10H14B" parent="T10H14">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T10H14M" parent="T10H14">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T10H14R" parent="T10H14">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T11H14">
+        <item name="android:textSize">@dimen/sp11</item>
+        <item name="lineHeight">@dimen/px14</item>
+    </style>
+    <style name="T11H14B" parent="T11H14">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T11H14M" parent="T11H14">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T11H14R" parent="T11H14">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T12H18">
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="T12H18B" parent="T12H18">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T12H18M" parent="T12H18">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T12H18R" parent="T12H18">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T12H20">
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="lineHeight">@dimen/px20</item>
+    </style>
+    <style name="T12H20R" parent="T12H20">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T14H18">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="lineHeight">@dimen/px18</item>
+    </style>
+    <style name="T14H18B" parent="T14H18">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T14H20">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="lineHeight">@dimen/px20</item>
+    </style>
+    <style name="T14H20B" parent="T14H20">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T14H20M" parent="T14H20">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T14H20R" parent="T14H20">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T14H22">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="lineHeight">@dimen/px22</item>
+    </style>
+    <style name="T14H22B" parent="T14H22">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T14Sportypo">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="textFont">sportypo</item>
+    </style>
+    <style name="T16H20">
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="lineHeight">@dimen/px20</item>
+    </style>
+    <style name="T16H20M" parent="T16H20">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T16H24">
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="lineHeight">@dimen/px24</item>
+    </style>
+    <style name="T16H24B" parent="T16H24">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T16H24M" parent="T16H24">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T16H24R" parent="T16H24">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T20H28">
+        <item name="android:textSize">@dimen/sp20</item>
+        <item name="lineHeight">@dimen/px28</item>
+    </style>
+    <style name="T20H28B" parent="T20H28">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T20H28M" parent="T20H28">
+        <item name="textFont">medium</item>
+    </style>
+    <style name="T20H28R" parent="T20H28">
+        <item name="textFont">regular</item>
+    </style>
+    <style name="T24H32">
+        <item name="android:textSize">@dimen/sp24</item>
+        <item name="lineHeight">@dimen/px32</item>
+    </style>
+    <style name="T24H32B" parent="T24H32">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T30H38">
+        <item name="android:textSize">@dimen/sp30</item>
+        <item name="lineHeight">@dimen/px38</item>
+    </style>
+    <style name="T30H38B" parent="T30H38">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T46H56">
+        <item name="android:textSize">@dimen/sp46</item>
+        <item name="lineHeight">@dimen/px56</item>
+    </style>
+    <style name="T46H56B" parent="T46H56">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T56H64">
+        <item name="android:textSize">@dimen/sp56</item>
+        <item name="lineHeight">@dimen/px64</item>
+    </style>
+    <style name="T56H64B" parent="T56H64">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="T72H84">
+        <item name="android:textSize">@dimen/sp72</item>
+        <item name="lineHeight">@dimen/px84</item>
+    </style>
+    <style name="T72H84B" parent="T72H84">
+        <item name="textFont">bold</item>
+    </style>
+    <style name="TabItem">
+        <item name="tabTextColor">@color/ink_3</item>
+        <item name="tabSelectedTextColor">@color/pri_4</item>
+        <item name="tabInlineLabel">true</item>
+        <item name="tabTextAppearance">@style/TabItemText</item>
+        <item name="tabIndicatorHeight">@dimen/px2</item>
+        <item name="tabIndicator">@drawable/tab_indicator</item>
+        <item name="tabIndicatorFullWidth">false</item>
+    </style>
+    <style name="TabItemText" parent="T14H20M">
+        <item name="fontFamily">@font/googlesans_medium</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="TextFieldInputValueBoxNormal" parent="TextFieldValueBox">
+        <item name="android:textColorHint">@color/ink_3</item>
+        <item name="android:background">@drawable/shape_icon_field_normal</item>
+    </style>
+    <style name="TextFieldLabel" parent="T12H18R"/>
+    <style name="TextFieldLabelNormal" parent="TextFieldLabel">
+        <item name="android:textColor">@color/ink_3</item>
+    </style>
+    <style name="TextFieldValueBox" parent="T14H20R">
+        <item name="android:layout_height">@dimen/px48</item>
+        <item name="android:paddingStart">@dimen/px16</item>
+        <item name="android:paddingEnd">@dimen/px8</item>
+        <item name="android:layout_marginTop">@dimen/px4</item>
+        <item name="android:textColor">@color/ink_5</item>
+    </style>
+    <style name="TextFieldValueBoxNormal" parent="TextFieldValueBox">
+        <item name="android:background">@drawable/shape_text_field_normal</item>
+    </style>
+    <style name="ToolbarButtonCTA" parent="T16H24M">
+        <item name="android:textColor">@color/pri_4</item>
+        <item name="fontFamily">@font/googlesans_medium</item>
+    </style>
+    <style name="ToolbarTitle.Large" parent="T20H28M">
+        <item name="fontFamily">@font/googlesans_medium</item>
+    </style>
+    <style name="ToolbarTitle.Normal" parent="T16H24M">
+        <item name="fontFamily">@font/googlesans_medium</item>
+    </style>
+    <style name="TouchIcon16">
+        <item name="android:layout_width">@dimen/px32</item>
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:padding">@dimen/px8</item>
+    </style>
+    <style name="TouchIcon24">
+        <item name="android:layout_width">@dimen/px32</item>
+        <item name="android:layout_height">@dimen/px32</item>
+        <item name="android:padding">@dimen/px4</item>
+    </style>
+    <style name="TouchIcon56">
+        <item name="android:layout_width">@dimen/px64</item>
+        <item name="android:layout_height">@dimen/px64</item>
+        <item name="android:padding">@dimen/px4</item>
+    </style>
+    <declare-styleable name="CustomTextView">
+        <attr format="enum" name="textFont">
+            <enum name="regular" value="0"/>
+            <enum name="medium" value="1"/>
+            <enum name="bold" value="2"/>
+            <enum name="sportypo" value="3"/>
+        </attr>
+        <attr format="reference" name="drawableStartCompat"/>
+        <attr format="reference" name="drawableEndCompat"/>
+        <attr format="reference" name="drawableTopCompat"/>
+        <attr format="reference" name="drawableBottomCompat"/>
+        <attr format="boolean" name="selected"/>
+    </declare-styleable>
+    <declare-styleable name="WellBanner">
+        <attr format="reference" name="bannerIcon"/>
+        <attr format="string" name="bannerTitle"/>
+        <attr format="string" name="bannerSubsTitle"/>
+        <attr format="string" name="bannerDescription"/>
+        <attr format="string" name="bannerTextCTA"/>
+    </declare-styleable>
+    <declare-styleable name="WellBottomSheetHeader">
+        <attr format="string" name="bottomSheetTitle"/>
+        <attr format="boolean" name="bottomSheetShowGrabber"/>
+        <attr format="boolean" name="bottomSheetShowCloseButton"/>
+    </declare-styleable>
+    <declare-styleable name="WellInputIconField">
+        <attr name="android:inputType"/>
+        <attr name="android:imeOptions"/>
+    </declare-styleable>
+    <declare-styleable name="WellInputTextField">
+        <attr format="string" name="title"/>
+        <attr format="boolean" name="enableErrorState"/>
+        <attr name="titleVisibility">
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr name="android:inputType"/>
+        <attr name="android:imeOptions"/>
+    </declare-styleable>
+    <declare-styleable name="WellLabel">
+        <attr format="string" name="textTitle"/>
+        <attr format="string" name="textAction"/>
+        <attr format="string" name="textDes"/>
+        <attr name="labelType">
+            <enum name="type1" value="0"/>
+            <enum name="type2" value="1"/>
+            <enum name="type3" value="2"/>
+            <enum name="type4" value="3"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="WellListItem">
+        <attr format="enum" name="itemStartElement">
+            <enum name="hide" value="0"/>
+            <enum name="display" value="1"/>
+        </attr>
+        <attr format="enum" name="itemContentElement">
+            <enum name="onlyTitle" value="0"/>
+            <enum name="titleAndDescriptionStyle1" value="1"/>
+            <enum name="titleAndDescriptionStyle2" value="2"/>
+            <enum name="titleAndDescriptionStyle3" value="4"/>
+            <enum name="progressAndTitleAndDescription" value="3"/>
+            <enum name="titleAndDescriptionEndWithTextAndIcon" value="5"/>
+            <enum name="bottomSheetDropDownDialog" value="6"/>
+        </attr>
+        <attr format="enum" name="itemEndElement">
+            <enum name="hide" value="0"/>
+            <enum name="icon" value="1"/>
+            <enum name="textValueStyle1" value="2"/>
+            <enum name="textValueStyle2" value="3"/>
+            <enum name="textAndIcon" value="4"/>
+            <enum name="toggle" value="5"/>
+            <enum name="button" value="6"/>
+            <enum name="invisible" value="7"/>
+        </attr>
+        <attr format="enum" name="itemEndButtonStyle">
+            <enum name="primary" value="0"/>
+            <enum name="secondary" value="1"/>
+            <enum name="plain" value="2"/>
+        </attr>
+        <attr format="enum" name="iteamEndToggleStyle">
+            <enum name="toggle" value="0"/>
+            <enum name="checkbox" value="1"/>
+        </attr>
+        <attr format="string" name="itemTitle"/>
+        <attr format="string" name="itemDescription"/>
+        <attr format="string" name="itemEndText"/>
+        <attr format="color" name="itemEndTextColor"/>
+        <attr format="string" name="itemEndButtonText"/>
+        <attr format="reference" name="itemStartIcon"/>
+        <attr format="reference" name="itemEndIcon"/>
+    </declare-styleable>
+    <declare-styleable name="WellPickerIcon">
+        <attr format="reference" name="itemPickerIcon"/>
+    </declare-styleable>
+    <declare-styleable name="WellPickerIconWithLabel">
+        <attr format="string" name="title1"/>
+        <attr format="string" name="hint1"/>
+        <attr format="reference" name="itemPickerIcon1"/>
+    </declare-styleable>
+    <declare-styleable name="WellPickerText">
+        <attr format="string" name="endText"/>
+    </declare-styleable>
+    <declare-styleable name="WellTab">
+        <attr format="boolean" name="hasIcon"/>
+        <attr format="enum" name="tabIconStyle">
+            <enum name="crow" value="0"/>
+            <enum name="tick" value="1"/>
+        </attr>
+        <attr name="android:text"/>
+    </declare-styleable>
+    <declare-styleable name="WellToolbar">
+        <attr format="enum" name="toolbarViewStyle">
+            <enum name="logo" value="0"/>
+            <enum name="title" value="1"/>
+            <enum name="backTitle" value="2"/>
+            <enum name="backTitleButton" value="3"/>
+            <enum name="backTitleIcon" value="4"/>
+            <enum name="backTitle2Icon" value="5"/>
+            <enum name="title2Icon" value="-1"/>
+            <enum name="titleSelectButton" value="7"/>
+        </attr>
+        <attr format="string" name="toolbarTitle"/>
+        <attr format="boolean" name="toolbarDisableCta"/>
+        <attr format="reference" name="toolbarLogo"/>
+        <attr format="string" name="toolbarTextCta"/>
+        <attr format="reference" name="toolbarAction1"/>
+        <attr format="reference" name="toolbarAction2"/>
+        <attr format="reference" name="toolbarAction3"/>
+        <attr format="boolean" name="toolbarHideDivider"/>
+        <attr format="reference" name="toolbarBackIcon"/>
+    </declare-styleable>
+</resources>
